@@ -14,6 +14,7 @@ namespace web
             livros.Add(new Livro("002", "Fique rico com C#", 30.99m));
             livros.Add(new Livro("003", "Java para baixinhos", 25.99m));
             livros.Add(new Livro("004", "Abra a Cabeça C#", 12.50m));
+            livros.Add(new Livro("005", "Abra a Cabeça Java", 500.50m));
 
             return livros;
         }
